@@ -22,6 +22,7 @@ Actualmente, la seguridad informática ha avanzado tanto que ya no es necesario 
   - [Antivirus en Android: Solo Prevención](#antivirus-en-android-solo-prevención)
   - [El Peligro del Root en Android (y Jailbreak en iPhone)](#el-peligro-del-root-en-android-y-jailbreak-en-iphone)
   - [¿GrapheneOS es una Solución Definitiva?](#grapheneos-es-una-solución-definitiva)
+- [Antivirus Recomendado: ClamAV](#antivirus-recomendado-clamav)
 - [Nota Importante](#nota-importante)
 
 ---
@@ -144,6 +145,21 @@ En los dispositivos de Apple (iPhone, iPad), el equivalente al **root en Android
 Uno de los sistemas operativos más seguros para Android es **[GrapheneOS](https://grapheneos.org/)**. Este sistema se ha diseñado con un enfoque en la **privacidad y seguridad**, eliminando muchos servicios de Google y fortaleciendo las capas de protección del sistema. Sin embargo, aunque GrapheneOS ofrece mayor **privacidad**, **no significa que haga a un dispositivo inmune a los virus**.
 
 Si un usuario instala una aplicación maliciosa en GrapheneOS, **se infectará igual** que en cualquier otro sistema operativo. La seguridad y la privacidad deben mantenerse **equilibradas**, pero siempre deben **combinarse con buenas prácticas**. No importa qué sistema operativo se utilice; si el usuario no es consciente de los riesgos y descarga software peligroso, será vulnerable a ataques.
+
+---
+
+## Antivirus Recomendado: ClamAV
+
+**ClamAV** es un antivirus gratuito y de código abierto que se puede utilizar en sistemas operativos como **Windows**, **Linux** y **Mac**. Es ideal para detectar y eliminar malware, y proporciona una opción confiable para quienes buscan una solución antivirus sin costo.
+
+### Características principales:
+- **Código abierto**: ClamAV es completamente gratuito y su código es accesible para su revisión y modificación.
+- **Compatibilidad multiplataforma**: Compatible con **Windows**, **Linux** y **Mac**, lo que lo hace ideal para usuarios con diferentes sistemas operativos.
+- **Detección de malware**: Ofrece una excelente capacidad para detectar virus, troyanos, y otros tipos de malware.
+- **Frecuentes actualizaciones de definiciones de virus**: ClamAV se mantiene actualizado con las últimas definiciones de virus para proteger tu sistema.
+
+### Uso:
+ClamAV puede ser utilizado para realizar análisis manuales o programados de tu sistema en busca de malware y otras amenazas. Además, puedes integrarlo con otros programas o usarlo a través de la línea de comandos.
 
 ---
 
